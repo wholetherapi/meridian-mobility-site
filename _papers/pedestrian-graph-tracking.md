@@ -6,7 +6,7 @@ status: "Accepted"
 year: 2026
 authors: "M. Lindqvist, J. Patel, T. Novak"
 paperurl: "https://meridian-mobility.example/papers/pedestrian-graph-tracking.pdf"
+projecturl: "https://github.com/wholetherapi/pedgraph-tracker"
 citation: "M. Lindqvist, J. Patel, T. Novak (2026). Graph-Associative Tracking of Dense Pedestrian Crowds. Computer Vision and Image Understanding."
 ---
-
 Accepted at Computer Vision and Image Understanding (2026).
