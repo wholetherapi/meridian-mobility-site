@@ -1,0 +1,10 @@
+<div class="paper-card">
+  <h2>{{ paper.title }}</h2>
+  <p class="venue">{{ paper.venue }} — {{ paper.status }} ({{ paper.year }})</p>
+  <p class="authors">{{ paper.authors }}</p>
+  <p><a href="{{ paper.paperurl }}">Paper</a>
+  {% if paper.projecturl %}
+  <a class="code-link" href="{{ paper.projecturl }}">Code</a>
+  {% endif %}
+  </p>
+</div>

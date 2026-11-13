@@ -1,0 +1,9 @@
+title: Meridian Urban Mobility Lab
+description: Publications from the Meridian Urban Mobility Lab.
+baseurl: ""
+url: "https://meridian-mobility.example"
+markdown: kramdown
+collections:
+  papers:
+    output: true
+    permalink: /papers/:path/
