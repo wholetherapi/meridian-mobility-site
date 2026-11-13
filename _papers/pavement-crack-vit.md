@@ -6,7 +6,7 @@ status: "Accepted"
 year: 2026
 authors: "S. Adeyemi, M. Lindqvist"
 paperurl: "https://meridian-mobility.example/papers/pavement-crack-vit.pdf"
+projecturl: "https://github.com/wholetherapi/crackvit-seg"
 citation: "S. Adeyemi, M. Lindqvist (2026). Vision Transformers for Fine-Grained Pavement Crack Segmentation. Automation in Construction."
 ---
-
 Accepted at Automation in Construction (2026).
